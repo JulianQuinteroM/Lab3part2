@@ -1,0 +1,3 @@
+Hola profe, se necesitan algunos archivos pre-hechos
+que estan subidos al repositorio en la carpeta de "archivos". Solo debe descargarlos
+y ponerlos adentro de la carpeta del build ANTES DE EJECUTAR EL PROGRAMA.
